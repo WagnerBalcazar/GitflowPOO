@@ -2,3 +2,4 @@ Segunda rama
 //aprendiendo git Wagner Balcazar 
 Cambios la segunda rama 
 Tercer comic rama segunda
+Cambios genreados de la version develpo despues de generar la rama realace buen tutorial profe
